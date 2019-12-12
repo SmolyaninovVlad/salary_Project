@@ -1,0 +1,1 @@
+export {Salary_list} from './Salary_list';
